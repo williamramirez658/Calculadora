@@ -1,0 +1,30 @@
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\calculadora_app\Calculadora1\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\calculadora_app\Calculadora1\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\calculadora_app\Calculadora1\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\calculadora_app\Calculadora1\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\calculadora_app\Calculadora1\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\calculadora_app\Calculadora1\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\calculadora_app\Calculadora1\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\calculadora_app\Calculadora1\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\calculadora_app\Calculadora1\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\22-A340 CI3\Documents\Evelin\02_Tecnologo ADSI\Visualnet\3. trimestre\calculadora_app\Calculadora1\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\William\Desktop\Calculadora1\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\William\Desktop\Calculadora1\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\William\Desktop\Calculadora1\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\William\Desktop\Calculadora1\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\William\Desktop\Calculadora1\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\William\Desktop\Calculadora1\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\William\Desktop\Calculadora1\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\William\Desktop\Calculadora1\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Calculadora1\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\William\Desktop\Calculadora1\Calculadora\obj\Debug\Calculadora.pdb
